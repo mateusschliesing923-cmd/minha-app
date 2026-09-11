@@ -7,7 +7,7 @@ def inicio():
     return """
     <h1>Minha App - Azure</h1>
     <p>Aplicação Python executando no Microsoft Azure.</p>
-    <p>Deploy realizado com GitHub, Docker e Azure Container Registry.</p>
+    <p>Deploy automático realizado com sucesso!</p>
     """
 
 if __name__ == "__main__":
